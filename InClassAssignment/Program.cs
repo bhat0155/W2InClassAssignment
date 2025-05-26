@@ -26,8 +26,8 @@ class Program
        car.Engine = engine;
         Console.WriteLine(car.Describe());
         
-    Console.WriteLine(Vowels.countVowels("Ekam"));
-    Console.WriteLine(Vowels.countVowels("ttt"));
+    Console.WriteLine(Vowels.countVowels("Hello World"));
+    Console.WriteLine(Vowels.countVowels("Apples ARE awesome"));
 
     }
     
