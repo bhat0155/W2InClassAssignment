@@ -1,7 +1,7 @@
 namespace InClassAssignment;
 
 public class Vowels
-{
+{ 
     public static int countVowels(string input)
     {
         var count = 0;
